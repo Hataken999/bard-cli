@@ -1,15 +1,27 @@
 {
   "name": "bard-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "Google Bard AI in COMMAND LINE.",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Bard",
+    "Google",
+    "Google Bard CLI",
+    "bard-cli",
+    "Hataken999",
+    "AI",
+    "Artificial Intelligence"
+  ],
+  "author": "Hataken999",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hataken999/bard-cli.git"
+  },
   "dependencies": {
     "googlebard": "^1.0.6"
   }
